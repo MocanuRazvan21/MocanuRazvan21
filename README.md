@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MocanuRazvan21
+- 👀 I’m interested in web development and design.
+- 🌱 I’m currently learning computeer engeneering.
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me @razvan.mocanu11
